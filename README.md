@@ -26,16 +26,10 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/AebaI27.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 Describe any challenges encountered while building the app.
+1. At the very start, there was just a single letter 'n' in the code all alone. It made my code not work and it took a while for me to find it. But that's really the only issue I had.
 
 ## License
 
